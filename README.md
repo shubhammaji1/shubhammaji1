@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **React, NodeJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shubhammaji1](https://github.com/shubhammaji1)
 
 - 📫 How to reach me **majishubham3@gmail.com**
