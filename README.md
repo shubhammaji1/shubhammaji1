@@ -1,7 +1,7 @@
 # Hi there, I'm Shubham Maji 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Graduate+Engineer;React+%26+Next.js+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I am a **Full-Stack Developer** and **Graduate Engineer** with a passion for building scalable web applications and immersive digital experiences. I thrive at the intersection of clean code and high-performance user interfaces.
 
-- 🛠️ Currently focused on high-performance dashboards and AI-integrated web apps.
+- 🛠️ Currently focused on high-performance dashboards,AI-integrated web apps and DOMO.
 - 🎓 Graduate Engineer with 1+ year of professional experience (Internship + Full-time).
 - 🎨 Interested in 3D development (Three.js), photography, and creative UI/UX.
 - 🚀 Always building responsive, mobile-first solutions.
