@@ -1,65 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shubham Maji</h1>
-<h3 align="center">Full-Stack Developer | Graduate Engineer</h3>
+# Hi there, I'm Shubham Maji 👋
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
-
-<p align="center">
-  I'm a passionate developer from India who loves building dynamic, responsive, and user-centric applications. With a solid foundation in frontend design and backend architecture, I enjoy transforming complex problems into elegant, efficient, and scalable web solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Graduate+Engineer;React+%26+Next.js+Specialist;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** A comprehensive dashboard project and an interactive **3D Chess Game**.
-- 🌱 **Currently exploring:** Advanced patterns in **React, Next.js, TypeScript, and Node.js**.
-- 🏗️ **Recent Projects:** Built platforms like **FreelanceDuo** and **Ai-Study Room**.
-- 🎨 **Beyond coding:** I have a strong interest in creating animated videos, logos, and diving into image editing.
-- 📫 **How to reach me:** [majishubham3@gmail.com](mailto:majishubham3@gmail.com)
+I am a **Full-Stack Developer** and **Graduate Engineer** with a passion for building scalable web applications and immersive digital experiences. I thrive at the intersection of clean code and high-performance user interfaces.
+
+- 🛠️ Currently focused on high-performance dashboards and AI-integrated web apps.
+- 🎓 Graduate Engineer with 1+ year of professional experience (Internship + Full-time).
+- 🎨 Interested in 3D development (Three.js), photography, and creative UI/UX.
+- 🚀 Always building responsive, mobile-first solutions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Projects
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[FreelanceDuo](https://github.com/shubhammaji1)** | A collaborative platform for freelancers to manage teams. | Next.js, TypeScript, Tailwind |
+| **[AI-Study Room](https://github.com/shubhammaji1)** | An intelligent learning environment powered by AI. | React, Node.js, OpenAI API |
 
-**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
+
+### 🛠️ Languages and Tools
+
+**Frontend & Design**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Database:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhammaji1&show_icons=true&locale=en&theme=radical" alt="Shubham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammaji1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shubham's Top Languages" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhammaji1&show_icons=true&theme=radical&hide_border=true" alt="Shubham's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammaji1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubham-maji/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:majishubham3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- 💼 [LinkedIn](https://linkedin.com/in/shubham-maji)
+- 📧 [Email](mailto:majishubham3@gmail.com)
+- 🌐 [Portfolio](https://github.com/shubhammaji1)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
