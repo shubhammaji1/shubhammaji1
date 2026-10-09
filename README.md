@@ -39,7 +39,7 @@ I work across UI, APIs, and data, but my favorite part is shaping a rough idea i
 
 <br />
 
-<img src="assets/postcard.svg?v=1" alt="Let's make something — say hello" width="100%" />
+<img src="assets/postcard.svg?v=2" alt="Let's make something — say hello" width="100%" />
 
 <div align="center">
 
